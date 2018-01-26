@@ -1,6 +1,6 @@
 # Password-Generator
 
-Was asked to make a password generator, with the following conditions:
+Python password generator, with the following conditions:
 
 1 - Starts with a letter
 
