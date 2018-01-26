@@ -9,6 +9,6 @@ Was asked to make a password generator, with the following conditions:
 Made with with System.Random based on the following stack exchange post:
 https://stackoverflow.com/a/23728630
 
-Another good read on why this code is better suited than just using random:
+Another good read on why this code is better suited than the PRNG in random (not cryptographically secure)
 https://en.wikipedia.org/wiki/Pseudorandom_number_generator
 
